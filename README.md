@@ -1,0 +1,2 @@
+# cd_proyecto
+GENERADOR INTELIGENTE DE  FOROS &amp; CHATS
