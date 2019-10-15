@@ -1,0 +1,6 @@
+jar cvmf MANIFEST.MF clienteChat.jar accesoBD.* mensajes.* imagenes.* clientechat.* appletclientechat.*
+
+Para ejecutarlo, escribir en la página web:
+
+	code    = "appletclientechat.AppletClienteChat.class"
+	archive = "clienteChat.jar"

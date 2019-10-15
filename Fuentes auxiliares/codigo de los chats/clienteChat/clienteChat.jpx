@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.0" name="application.class" value="clientechat.ApplicationClienteChat"/>
+  <property category="runtime.0" name="application.parameters" value="ejemploDBchat 8080 localhost -permitir_privados -permitir_mostrar_info_usuario -permitir_configurar_fuentes -mostrar_iconos_botones"/>
+  <property category="runtime.0" name="appserver.ejbJarsSaved" value="1"/>
+  <property category="runtime.0" name="appserver.parameters" value="-jts -jns -jss -jdb"/>
+  <property category="runtime.0" name="appserver.servername" value="standard"/>
+  <property category="runtime.0" name="appserver.vmparameters" value="-Dvbroker.agent.port=14000 -Djava.library.path=/BorlandEnterpriseServer/lib;/BorlandEnterpriseServer/bin -Dborland.enterprise.licenseDir=/BorlandEnterpriseServer/var/servers/talaveras/adm -Dejb.module_preload=true"/>
+  <property category="runtime.0" name="jsprunner.launchuri" value="/"/>
+  <property category="runtime.0" name="test.harness" value="junit.textui.TestRunner"/>
+  <property category="sys" name="AuthorLabel" value="@author"/>
+  <property category="sys" name="BackupPath" value="bak"/>
+  <property category="sys" name="CheckStable" value="1"/>
+  <property category="sys" name="Company" value="Foros &amp; Chats"/>
+  <property category="sys" name="CompanyLabel" value="Company:"/>
+  <property category="sys" name="Copyright" value="Copyright (c) 2003"/>
+  <property category="sys" name="CopyrightLabel" value="Copyright:"/>
+  <property category="sys" name="DefaultPath" value="src"/>
+  <property category="sys" name="Description" value="Clientes de chat de l proyecto de tipo configurable"/>
+  <property category="sys" name="DescriptionLabel" value="Description:"/>
+  <property category="sys" name="DocPath" value="doc"/>
+  <property category="sys" name="ExcludeClassEnabled" value="0"/>
+  <property category="sys" name="IncludeTestPath" value="1"/>
+  <property category="sys" name="JDK" value="java 1.4.0_01-b03"/>
+  <property category="sys" name="LastTag" value="0"/>
+  <property category="sys" name="Libraries" value="java-mysql-connector"/>
+  <property category="sys" name="MakeStable" value="0"/>
+  <property category="sys" name="OutPath" value="classes"/>
+  <property category="sys" name="SourcePath" value="src;test"/>
+  <property category="sys" name="TestPath" value="test"/>
+  <property category="sys" name="Title" value="Cliente chat de foros &amp; chats"/>
+  <property category="sys" name="TitleLabel" value="Title:"/>
+  <property category="sys" name="Version" value="1.0"/>
+  <property category="sys" name="VersionLabel" value="@version"/>
+  <property category="sys" name="WorkingDirectory" value="."/>
+  <property category="sys"
+    name="uidesign.size.appletclientechat.DialogoConfig" value="466,511"/>
+  <property category="sys"
+    name="uidesign.size.clientechat.DialogoConfig" value="455,581"/>
+</project>

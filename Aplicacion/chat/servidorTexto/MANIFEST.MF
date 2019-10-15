@@ -1,0 +1,4 @@
+Main-Class: servidorchat.servidorChat
+
+Name: servidorchat/servidorChat.class
+Sealed: true

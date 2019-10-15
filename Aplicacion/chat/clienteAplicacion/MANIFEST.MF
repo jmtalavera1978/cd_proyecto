@@ -1,0 +1,4 @@
+Main-Class: clientechat.ApplicationClienteChat
+
+Name: clienteChat/ApplicationClienteChat.class
+Sealed: true

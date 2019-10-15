@@ -1,0 +1,3 @@
+jar cvmf MANIFEST.MF servidorChat.jar mysql-connector-java-3.0.8-stable-bin.jar accesoBD.* mensajes.* aplicacionServidorChat.*
+
+Para ejecutarlo: java -jar servidorChat.jar [argumentos]

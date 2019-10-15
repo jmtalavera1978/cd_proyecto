@@ -1,0 +1,28 @@
+***********************
+*CONTENIDO DE ESTE CD:*
+***********************
+
++Documentacion					-Documentación del proyecto
+|
++Bases de datos					-Bases de datos necesarias para su instalación
+|
++Programas utilizados				-Programas utilizados en la elaboración del mismo
+|   +---Servidores
+|   |   +---PHP
+|   |   +---Apache
+|   |   +---MySQL
+|   +---Editores y compiladores
+|   |   +---Dreamwever MX
+|   |   +---JBuilder 6
+|   |   +---PHPEdit
+|   +---Programas auxiliares
+|   |   +---Manejo de bases de datos MySQL
+|   +---Paquetes y librerias
+|       +---Libreria PHP para comprimir en Zip
+|       +---Libreria de conexion Mysql-Java
+|       +---Java 2 Runtime Enviroment
+|
++---Fuentes auxiliares				-Codigo fuentes auxiliares como el codigo Java de los chats
+|       +---Codigo de los chats
+|
++---Aplicacion					-Aplicacion Web, incluye el codigo de los 4 tipos de foros creados

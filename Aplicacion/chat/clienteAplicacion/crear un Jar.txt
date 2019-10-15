@@ -1,0 +1,3 @@
+jar cvmf MANIFEST.MF clienteChat.jar accesoBD.* mensajes.* imagenes.* clientechat.*
+
+Para ejecutarlo: java -jar clienteChat.jar [argumentos]

@@ -1,0 +1,145 @@
+body.menu {
+	scrollbar-face-color: #0000aa; 
+	scrollbar-shadow-color: #C0C0C0; 
+	scrollbar-arrow-color: #ffffff; 
+	scrollbar-darkshadow-color: #222222; 
+	scrollbar-highlight-color: #C0C0C0; 
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-track-color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-family: Book Antiqua, Times New Roman, Times;
+	font-size: 14px; color: #660000; 
+	color: rgb(192,192,192);
+	background-color: rgb(119,153,204);
+	margin: 0px text-decoration:underline; 
+	font-style: normal; 
+	font-weight: normal; 
+	margin-top: 20px;  
+	margin-bottom: 0px; 
+	margin-right: 0px; 
+	margin-left: 20px; 
+	list-style-type: disc; 
+}
+BODY.mysql {
+	scrollbar-face-color: #777777; 
+	scrollbar-shadow-color: #C0C0C0; 
+	scrollbar-arrow-color: #ffffff; 
+	scrollbar-darkshadow-color: #222222; 
+	scrollbar-highlight-color: #C0C0C0; 
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-track-color: #aaaaaa;
+	font-family: Courier, Arial, Helvetica, sans-serif; 
+	font-size: 10px; 
+	color: #FFFFFF; 
+	background-color: #7799CC;
+	background-image: url("mysql.gif");
+	margin: 0px text-decoration:underline; 
+	font-style: normal; 
+	font-weight: normal; 
+	margin-top: 20px;  
+	margin-bottom: 0px; 
+	margin-right: 0px; 
+	margin-left: 20px; 
+	list-style-type: disc; 
+}
+A { COLOR: #ffff00; TEXT-DECORATION: none}
+A:hover { COLOR: #00FFFF; TEXT-DECORATION: overline}
+A.menu { 
+	color: rgb(255,230,200); 
+	text-decoration: none;
+}
+A.menu:hover { text-decoration: overline , underline; }
+A.enlace { 
+	border-style: solid;
+	cursor: pointer;
+	cursor: hand;
+	font-family : earth,arial,comic sans ms,helvetica;
+	font-size : 12px;	
+	font-weight: normal;
+}
+A.enlace:link	{ 
+	background-color: #004488;
+	border-color: #0077BB;
+	color: #ffff00; 
+	text-decoration: underline;
+}
+A.enlace:visited		{ 
+	background-color: #004488;
+	border-color: #0077BB;
+	color: #ffff00; 
+	text-decoration: underline;
+}
+A.enlace:hover		{ 
+	background-color: #0077BB;
+	border-color: #BBBB00;
+	color: #cccc66; 
+	text-decoration: overline;
+}
+A.enlace:active		{ 
+	background-color: #222222;
+	border-color: #055555;
+	color: #cccc66; 
+	text-decoration: none;
+}
+.action
+{
+    BORDER-RIGHT: #555555 2px solid;
+    BORDER-TOP: #BBBBBB 2px solid;
+    BORDER-LEFT: #BBBBBB 2px solid;
+    BORDER-BOTTOM: #555555 2px solid;
+    FONT-SIZE: 9px;
+	COLOR: #FFFFFF;
+	HEIGHT:19px;
+	BACKGROUND-COLOR: #777777;
+    FONT-FAMILY: Verdana
+}
+.rotulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+}
+.caja {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	border: solid 0.1em;
+	border-color:#FFFFFF;
+	background-color: #AAAAAA;
+}
+.cajarotulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	border: solid 0.1em;
+	border-color:#FFFFFF;
+}
+table.menu {
+	table-border-color-light: rgb(204,153,255);
+	table-border-color-dark: rgb(102,0,102); 
+}
+td.menu
+{
+	background-color:	rgb(100,100,170);
+	border-style: solid; 
+	border-width: 2; 
+	border-color: rgb(0,0,0);
+}
+.oculto {
+	visibility:hidden;
+}
+.ocultototal {
+	position:absolute;
+	visibility:hidden;
+}
